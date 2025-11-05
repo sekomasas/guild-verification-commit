@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-05T23:50:55.772Z
-Commit: Fix CSS styling bug on mobile devices
+Timestamp: 2025-11-05T23:53:46.630Z
+Commit: Patch API endpoint error handling
